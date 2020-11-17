@@ -6,7 +6,7 @@ Registered Nurses from other, remote locations travel to cities to be temporary 
 
 ## Installation / Files
 
-Pull the following files from https://staffbotsteve.github.io/lazy-loaders/.
+Pull the following files from https://dspark410.github.io/Travel-Nurse-App/.
 - README.md
 - gsa.html
 - gsa.js
